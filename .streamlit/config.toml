@@ -1,0 +1,15 @@
+[theme]
+# The main accent color (Used for buttons, loading bars, and highlights)
+primaryColor = "#003366" # FCPC Deep Blue
+
+# The main background color of the app
+backgroundColor = "#FFFFFF" # Clean White
+
+# The background of the sidebar and the user's chat bubbles
+secondaryBackgroundColor = "#FFF2CC" # Light Gold/Yellow
+
+# The color of the text
+textColor = "#000000" # Black for easy reading
+
+# The font style
+font = "sans serif"
