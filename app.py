@@ -24,7 +24,7 @@ model = genai.GenerativeModel(
 )
 
 # 6. Streamlit UI Setup
-st.title("Ask ProviBot, your FCPC Campus Buddy!🏫")
+st.title("Ask ProviBot, your FCPC Campus Buddy!")
 
 # Initialize chat history in Streamlit's session state
 if "chat" not in st.session_state:
