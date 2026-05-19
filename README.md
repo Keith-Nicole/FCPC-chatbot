@@ -1,7 +1,8 @@
-# 🏫 ProviBot - FCPC AI Campus Assistant
+# ProviBot - FCPC AI Campus Assistant
 ProviBot is an AI-powered campus buddy for First City Providential College (FCPC). Built using Python, Streamlit, and the Google Gemini API, it provides intelligent, context-aware answers to student inquiries based entirely on a verified institutional knowledge base.
+URL: https://fcpc-chatbot-fohzbadytkzkgz8jpd8rlu.streamlit.app/ 
 
-## 🚀 How to Run the Project Locally
+## How to Run the Project Locally
 Follow these step-by-step instructions to set up and run ProviBot on your local machine.
 
 ### Prerequisites
