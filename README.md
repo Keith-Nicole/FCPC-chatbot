@@ -34,14 +34,11 @@ streamlit run app.py
 
 A local web browser tab should automatically open at `http://localhost:8501`, displaying the active ProviBot chat interface. You're all set!
 
----
-
-## 🛠️ Project Structure
+## Project Structure
 
 * `app.py` - The core application file handling the UI, state retention, and API logic.
 * `knowledge_base.txt` - The primary text asset containing all verified FCPC rules and paths.
 * `requirements.txt` - The library installation map required for both local and cloud setups.
 * `.gitignore` - Prevents local `.env` files from leaking into the public cloud environment.
 
-```
 
